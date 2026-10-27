@@ -1,8 +1,9 @@
 .venv
 .env
+.idea
 # .gitignore
 # git init
 #git add .
 #git commit -m "python baiscs"
 # git remote add origin https://github.com/joangicheruu/Intro-to-python.git
-# git push -u origin master
+# git push -u origin main
