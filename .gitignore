@@ -1,9 +1,15 @@
 .venv
 .env
 .idea
+*.mp3
+*.txt
+*.webm
+!requirements.txt
 # .gitignore
 # git init
 #git add .
 #git commit -m "python baiscs"
 # git remote add origin https://github.com/joangicheruu/Intro-to-python.git
-# git push -u origin main
+# git push -u origin master
+#pip freeze > requirements.txt
+#pip install -r requitements.txt
