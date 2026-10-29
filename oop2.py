@@ -1,0 +1,24 @@
+# oop2
+# inheritance, encapsulation
+class Circle:
+    def __init__(self, r):
+        self.radius = r
+    def area(self):
+        return 22/7 * self.radius**2
+    def perimeter(self):
+        return 22/7 * self.radius* 2
+    def print_details(self):
+        print("Radius is", self.radius)
+        print("Area is", self.area)
+        print("Perimeter is", self.perimeter)
+
+c1 = Circle(10)
+c2 = Circle(20)
+c3 = Circle(30)
+print(c1.area())
+
+# branches -- copy
+# master -- main copy
+# create your own branch eg feature branch
+
+
