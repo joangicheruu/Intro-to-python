@@ -19,6 +19,6 @@ print(c1.area())
 
 # branches -- copy
 # master -- main copy
-# create your own branch eg feature branch
-
+# create your own branch e.g feature branch
+# branch name... TNT-001-feature
 
